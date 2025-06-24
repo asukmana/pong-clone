@@ -4,9 +4,9 @@
     {"name":"Points","order":3,"path":"folders/Objects/Points.yy",},
   ],
   "ResourceOrderSettings":[
-    {"name":"o_controller","order":2,"path":"objects/o_controller/o_controller.yy",},
     {"name":"o_extra_ball","order":4,"path":"objects/o_extra_ball/o_extra_ball.yy",},
     {"name":"ob_ball","order":1,"path":"objects/ob_ball/ob_ball.yy",},
+    {"name":"ob_controller","order":2,"path":"objects/ob_controller/ob_controller.yy",},
     {"name":"ob_paddle_red","order":1,"path":"objects/ob_paddle_red/ob_paddle_red.yy",},
     {"name":"sp_paddle_blue","order":2,"path":"sprites/sp_paddle_blue/sp_paddle_blue.yy",},
     {"name":"sp_paddle_red","order":3,"path":"sprites/sp_paddle_red/sp_paddle_red.yy",},
