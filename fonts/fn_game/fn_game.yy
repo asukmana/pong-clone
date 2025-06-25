@@ -110,7 +110,7 @@
     "9647":{"character":9647,"h":26,"offset":3,"shift":12,"w":6,"x":29,"y":142,},
   },
   "hinting":0,
-  "includeTTF":false,
+  "includeTTF":true,
   "interpreter":0,
   "italic":false,
   "kerningPairs":[
@@ -2448,10 +2448,7 @@
   "sdfSpread":8,
   "size":16.0,
   "styleName":"Regular",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
-  "TTFName":"",
+  "textureGroupId":null,
+  "TTFName":"E:\\Users\\Arief\\Coding\\GameMaker\\Pong Clone\\fonts\\fn_game\\Xolonium-Regular.ttf",
   "usesSDF":false,
 }
